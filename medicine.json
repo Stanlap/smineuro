@@ -1,5 +1,4 @@
-{
-    "Document": [
+[
       {
         "DocumentID": 1128,
         "RusName": "ИНДАПАМИД",
@@ -1250,4 +1249,3 @@
         "ChildInsufUsing": "Can"
       }
     ]
-  }

@@ -1,2 +1,4 @@
-document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
-console.log('Added code')
+const jokes = require('./medicine.json');
+
+console.log(jokes[31].DocumentID)
+console.log(jokes[31].Dosage)
