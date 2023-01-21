@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Stanlap/smineuro/issues"
   },
-  "homepage": "https://github.com/Stanlap/smineuro#readme"
+  "homepage": "https://github.com/Stanlap/smineuro#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
