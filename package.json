@@ -1,0 +1,20 @@
+{
+  "name": "smineuro",
+  "version": "1.0.0",
+  "description": "I am studying Git",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanlap/smineuro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanlap/smineuro/issues"
+  },
+  "homepage": "https://github.com/Stanlap/smineuro#readme"
+}
