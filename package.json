@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "I am studying Git",
   "main": "script.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/Stanlap/smineuro#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
   }
 }
